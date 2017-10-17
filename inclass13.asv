@@ -66,13 +66,4 @@ end
 
 % C. Plot centroids without mask, adjusting indices
 figure
-% Get size of image to adjust accordingly
-[~, ysize] = size(mask);
 
-% Iterate over each centroid and plot with adjusted coordinates
-for center = 1:2:length(data)
-    
-    plot(data(center), ysize - data(center+1), 'bo')
-    hold on
-    
-end
