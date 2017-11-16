@@ -1,4 +1,14 @@
 %Inclass 13
+%GB comments
+1a 70 To use this method, it is best to use a larger radial value in the morphological structuring element. Change 60 to 130+ and the resulting image is much more reasonable. 
+1b 100 
+1c 100
+1d 100
+2a 100
+2b 100
+2c 100
+overall: 96
+
 
 %Part 1. In this directory, you will find an image of some cells expressing a 
 % fluorescent protein in the nucleus. 
